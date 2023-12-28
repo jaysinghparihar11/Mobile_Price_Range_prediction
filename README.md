@@ -20,5 +20,5 @@ In today's world, mobile phones have become a necessity for nearly every individ
 - Our EDA analysis indicates a direct correlation between increased RAM in a mobile phone and its price.
 - Battery power is equally influential in determining the price of a mobile device.
 - RAM, battery power, and pixel can play significant roles in defining the price range of a mobile phone.
-- 
+  
 Overall The XGBoost model performs exceptionally well on both the training and testing data.
